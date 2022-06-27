@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-import UsuariosPage from './Pages/Usuarios';
+import UsuariosPage from './pages/Usuarios';
 
 const App = function() {
   return (
